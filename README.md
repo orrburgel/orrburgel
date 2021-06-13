@@ -22,7 +22,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
   <a title="Orr Burgel" href="https://github.com/orrburgel">
     <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="100" alt="Profile Picture of Orr Burgel (orrburgel)">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=orrburgel&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=true" alt="GitHub Stats for Orr Burgel (orrburgel)">
+  <img src="https://github-readme-stats.vercel.app/api?username=orrburgel&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=false" alt="GitHub Stats for Orr Burgel (orrburgel)">
 </div>
 (You🔴right, I'm currently sponsering myself)
 
