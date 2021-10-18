@@ -10,7 +10,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 - 👯 I’m looking to collaborate on new epic, fun, and unique projects.
 - 🤔 I’m looking for help with making a video game.
 - 💬 Ask me about technology, science, space, and programming topics.
-- 📫 How to reach me: Feel free to send me a message via [Twitter](https://twitter.com/orrburgel).
+- 📫 How to reach me: Feel free to send me a message via [Twitter](https://twitter.com/BurgelOrr).
 - 😄 Pronouns: I, He, Sir, Mr., Burgil.
 - ⚡ Fun fact: I've used a computer everyday ever since I can remember myself, And I'm 24 years old (97').
 
