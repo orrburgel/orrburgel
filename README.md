@@ -12,7 +12,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 - 💬 Ask me about technology, science, space, and programming topics.
 - 📫 How to reach me: idk open an issue somewhere on my repos and hope it will not freak me out lol.
 - 😄 Pronouns: I, He, Sir, Mr., Burgil.
-- ⚡ Fun fact: I've used a computer everyday ever since I can remember myself, And I'm 24 years old (97').
+- ⚡ Fun fact: I've used a computer everyday ever since I can remember myself, And I'm 25 years old (97').
 
 **If my contributions, code snippets, or repositories has helped you, please consider [sponsoring me](https://github.com/sponsors/burgil).**
 
