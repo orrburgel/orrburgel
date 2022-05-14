@@ -60,7 +60,6 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-003366?style=for-the-badge&logo=Linux%20Foundation&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![LAMP](https://img.shields.io/badge/LAMP-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMP-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
@@ -69,6 +68,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![MEAN](https://img.shields.io/badge/MEAN-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![AMPSS](https://img.shields.io/badge/AMPSS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=Replit&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Hyper-V](https://img.shields.io/badge/Hyper-V-000000?style=for-the-badge&logo=Hyper&logoColor=white)
 
 #### ML / DL
