@@ -114,7 +114,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 #### CLOUD HOSTING
 
-![Cloudflare Pages](https://img.shields.io/badge/cloudflare-pages-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/cloudflare%20pages-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
