@@ -54,7 +54,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 #### Browser Extensions
 
-![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-4285F4.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4)
+![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-red.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4)
 ![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=0076D6)
 ![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=for-the-badge&logo=Firefox%20Browser&logoColor=FF7139)
 ![Brave Extensions](https://img.shields.io/badge/Brave-Extensions-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=FB542B)
