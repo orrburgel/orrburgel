@@ -50,12 +50,12 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Express.js](https://img.shields.io/badge/Express.JS-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
-![Electron.JS](https://img.shields.io/badge/Electron.JS-47848F.svg?style=for-the-badge&logo=Electron.JS&logoColor=white)
+![Electron.JS](https://img.shields.io/badge/Electron.JS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 
 #### Browser Extensions
 
 ![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-4285F4.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)
-![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=for-the-badge&logo=Interne%20Explorer&logoColor=white)
+![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
 ![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=for-the-badge&logo=Firefox%20Browser&logoColor=white)
 ![Brave Extensions](https://img.shields.io/badge/Brave-Extensions-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)
 ![Opera Extensions](https://img.shields.io/badge/Opera-Extensions-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=white)
@@ -66,7 +66,6 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-003366?style=for-the-badge&logo=Linux%20Foundation&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper-V-000000?style=for-the-badge&logo=Hyper&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -78,6 +77,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![MEAN](https://img.shields.io/badge/MEAN-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![AMPSS](https://img.shields.io/badge/AMPSS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=Replit&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper-V-000000?style=for-the-badge&logo=Hyper&logoColor=white)
 
 #### ML / DL
 
@@ -90,7 +90,6 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 #### Databases
 
-![Cloudflare Workers KV](https://img.shields.io/badge/cloudflare%20workers-kv-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -99,6 +98,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Cloudflare Workers KV](https://img.shields.io/badge/cloudflare%20workers-kv-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 #### OS
 
@@ -122,7 +122,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-c14432.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SiteGround](https://img.shields.io/badge/siteground-8CC445.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![CloudWays](https://img.shields.io/badge/cloudways-2C39BD.svg?style=for-the-badge&logo=cloudways&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM%20WCloud&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 
 ## Sponsors
 
