@@ -5,7 +5,7 @@
 
 I'm a self-taught, self-employed, self-sustained software, website, and application full-stack modest developer based in Israel, my work mainly focuses on automating human jobs and reinveting wheels, You need to accept it, everything already exists, it's the age of the successors😄⚡
 
-- 🔭 I’m currently working on an epic startup.
+- 🔭 I’m currently working on an epic startup idea.
 - 🌱 I’m currently learning how to combine all my knowledge into a new startup.
 - 👯 I’m looking to collaborate on new epic, fun, and unique projects.
 - 🤔 I’m looking for help with making the next big thing.
