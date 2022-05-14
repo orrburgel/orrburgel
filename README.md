@@ -60,7 +60,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-003366?style=for-the-badge&logo=Linux%20Foundation&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![LAMP](https://img.shields.io/badge/LAMP-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMP-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
@@ -90,7 +90,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Cloudflare Workers KV](https://img.shields.io/badge/cloudflare%20workers-kv-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers KV](https://img.shields.io/badge/cloudflare%20workers-kv-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 #### OS
 
