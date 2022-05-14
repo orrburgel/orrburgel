@@ -51,7 +51,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
-![Drogon](https://img.shields.io/badge/Drogon-Framework-D4911E.svg?style=for-the-badge&logo=Dragonframe&logoColor=white)
+![Drogon](https://img.shields.io/badge/Drogon-Framework-D4911E.svg?style=for-the-badge&logo=Dragonframe&logoColor=21759B)
 
 #### Environments
 
