@@ -14,6 +14,10 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 - 😄 Pronouns: I, He, Sir, Mr, Burgil.
 - ⚡ Fun fact: I've used a computer everyday ever since I can remember myself, And I'm 25 years old (97').
 
+### What can I help you with?
+
+---
+
 #### Languages
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
