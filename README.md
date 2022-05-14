@@ -112,7 +112,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Debain](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
 
-#### CLOUD HOSTING
+#### Cloud
 
 ![Cloudflare Pages](https://img.shields.io/badge/cloudflare%20pages-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-181717.svg?style=for-the-badge&logo=github&logoColor=white)
