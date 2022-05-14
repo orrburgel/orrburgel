@@ -139,7 +139,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 ##
 
-**burgil/burgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+*Those who are unwilling to confront the past will be unable to understand the present and unfit to face the future!*
 
 <a title="Burgil" href="https://github.com/burgil">
 <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="100" alt="Profile Picture of Burgil (burgil)">
@@ -147,4 +147,4 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 ![visitors count](https://komarev.com/ghpvc/?username=burgil)
 
-Those who are unwilling to confront the past will be unable to understand the present and unfit to face the future!
+**burgil/burgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
