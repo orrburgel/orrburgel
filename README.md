@@ -52,21 +52,12 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Electron.JS](https://img.shields.io/badge/Electron.JS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![Drogon](https://img.shields.io/badge/Drogon-Framework-D4911E.svg?style=for-the-badge&logo=Dragonframe&logoColor=white)
 
-#### Browser Extensions
-
-![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-red.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4)
-![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=0076D6)
-![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=for-the-badge&logo=Firefox%20Browser&logoColor=FF7139)
-![Brave Extensions](https://img.shields.io/badge/Brave-Extensions-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=FB542B)
-![Opera Extensions](https://img.shields.io/badge/Opera-Extensions-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
-![Safari Extensions](https://img.shields.io/badge/Safari-Extensions-000000.svg?style=for-the-badge&logo=Safari&logoColor=fff)
-
 #### Environments
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-003366?style=for-the-badge&logo=Linux%20Foundation&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
@@ -113,6 +104,15 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
+
+#### Browsers
+
+![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-red.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=4285F4)
+![Edge Extensions](https://img.shields.io/badge/Edge-Extensions-0076D6.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=0076D6)
+![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=for-the-badge&logo=Firefox%20Browser&logoColor=FF7139)
+![Brave Extensions](https://img.shields.io/badge/Brave-Extensions-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=FB542B)
+![Opera Extensions](https://img.shields.io/badge/Opera-Extensions-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
+![Safari Extensions](https://img.shields.io/badge/Safari-Extensions-000000.svg?style=for-the-badge&logo=Safari&logoColor=fff)
 
 #### Cloud
 
