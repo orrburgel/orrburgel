@@ -164,21 +164,13 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 #### OS
 
 ![Windows XP](https://img.shields.io/badge/Windows%20XP-003399.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
-
 ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
-
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
-
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Mac](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ![Debain](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
-
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white)
 
 #### CLOUD HOSTING
