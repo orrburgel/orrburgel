@@ -59,7 +59,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![FireFox Extensions](https://img.shields.io/badge/Firefox-Extensions-FF7139.svg?style=for-the-badge&logo=Firefox%20Browser&logoColor=FF7139)
 ![Brave Extensions](https://img.shields.io/badge/Brave-Extensions-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=FB542B)
 ![Opera Extensions](https://img.shields.io/badge/Opera-Extensions-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
-![Safari Extensions](https://img.shields.io/badge/Safari-Extensions-000000.svg?style=for-the-badge&logo=Safari&logoColor=000000)
+![Safari Extensions](https://img.shields.io/badge/Safari-Extensions-000000.svg?style=for-the-badge&logo=Safari&logoColor=fff)
 
 #### Environments
 
