@@ -8,10 +8,10 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 - 🔭 I’m currently working on an epic startup.
 - 🌱 I’m currently learning how to combine all my knowledge into a new startup.
 - 👯 I’m looking to collaborate on new epic, fun, and unique projects.
-- 🤔 I’m looking for help with making a video game.
+- 🤔 I’m looking for help with making the next big thing.
 - 💬 Ask me about technology, science, space, and programming topics.
 - 📫 How to reach me: idk open an issue somewhere on my repos and hope it will not freak me out lol.
-- 😄 Pronouns: I, He, Sir, Mr., Burgil.
+- 😄 Pronouns: I, He, Sir, Mr, Burgil.
 - ⚡ Fun fact: I've used a computer everyday ever since I can remember myself, And I'm 25 years old (97').
 
 #### Programming Languages
