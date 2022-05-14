@@ -146,3 +146,5 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 </a>
 
 ![visitors count](https://komarev.com/ghpvc/?username=burgil)
+
+Those who are unwilling to confront the past will be unable to understand the present and unfit to face the future!
