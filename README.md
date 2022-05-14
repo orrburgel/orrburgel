@@ -38,7 +38,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![XML](https://img.shields.io/badge/XML-F3702A.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-#### Web Frameworks
+#### Frameworks
 
 ![Electron.JS](https://img.shields.io/badge/Electron.JS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,7 +71,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Hyper-V](https://img.shields.io/badge/Hyper-V-000000?style=for-the-badge&logo=Hyper&logoColor=white)
 
-#### ML / DL
+#### ML / DL (AI, Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
