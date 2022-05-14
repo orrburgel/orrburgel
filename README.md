@@ -40,7 +40,6 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 #### Web Frameworks
 
-![Drogon](https://img.shields.io/badge/Drogon-Framework-D4911E.svg?style=for-the-badge&logo=Dragonframe&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white)
@@ -51,6 +50,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
 ![Electron.JS](https://img.shields.io/badge/Electron.JS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
+![Drogon](https://img.shields.io/badge/Drogon-Framework-D4911E.svg?style=for-the-badge&logo=Dragonframe&logoColor=white)
 
 #### Browser Extensions
 
