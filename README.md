@@ -17,7 +17,6 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 #### Programming Languages
 
 ![PowerShell]()
-
 ![Bash]()
 ![Batch](https://img.shields.io/badge/batch-fff?style=for-the-badge&logo=GNOME%20Terminal&logoColor=241F31)
 ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=Swift&logoColor=F05138)
@@ -51,7 +50,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Express.js]()
 ![Bootstrap]()
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
-
+![Electron.JS](https://img.shields.io/badge/Electron.JS-47848F.svg?style=for-the-badge&logo=Electron.JS&logoColor=white)
 
 #### Browser Extensions
 
@@ -65,40 +64,40 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 #### Environments
 
-![Docker]()
-![Kubernetes]()
-![WSL]()
-![Hyper-V]()
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-003366?style=for-the-badge&logo=Linux%20Foundation&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper-V-000000?style=for-the-badge&logo=Hyper&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nginx]()
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Apache]()
-![LAMP]()
-![WAMP]()
-![XAMPP]()
-![LEMP]()
-![MEAN]()
-![AMPSS]()
-![Repl.it]()
+![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
+![LAMP](https://img.shields.io/badge/LAMP-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=white)
+![WAMP](https://img.shields.io/badge/WAMP-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
+![LEMP](https://img.shields.io/badge/LEMP-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+![MEAN](https://img.shields.io/badge/MEAN-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![AMPSS](https://img.shields.io/badge/AMPSS-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
+![Repl.it](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=Replit&logoColor=white)
 
 #### ML / DL
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Nvidia NeMo](https://img.shields.io/badge/Nvidia%20NeMo-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![PyTorch]()
-![Keras]()
-![IBM Watson]()
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM%20Watson&logoColor=white)
 
 #### Databases
 
-![Cloudflare Workers KV](https://img.shields.io/badge/cloudflare%20workers%20kv-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers KV](https://img.shields.io/badge/cloudflare%20workers-kv-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/nosql-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB]()
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -124,8 +123,7 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-c14432.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SiteGround](https://img.shields.io/badge/siteground-8CC445.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![CloudWays](https://img.shields.io/badge/cloudways-2C39BD.svg?style=for-the-badge&logo=cloudways&logoColor=white)
-
-https://simpleicons.org/
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM%20WCloud&logoColor=white)
 
 ## Sponsors
 
