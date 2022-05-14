@@ -126,13 +126,11 @@ I'm a self-taught, self-employed, self-sustained software, website, and applicat
 
 ## Sponsors
 
-<div style="display:inline;">
-  <a title="Burgil" href="https://github.com/burgil">
+<img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=false" alt="GitHub Stats for Burgil (burgil)">
+(You🔴right, I'm currently sponsering myself)
+ <a title="Burgil" href="https://github.com/burgil">
     <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="100" alt="Profile Picture of Burgil (burgil)">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=false" alt="GitHub Stats for Burgil (burgil)">
-</div>
-(You🔴right, I'm currently sponsering myself)
 
 **If my contributions, code snippets, or repositories has helped you, please consider [sponsoring me](https://github.com/sponsors/burgil).**
 
