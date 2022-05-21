@@ -137,8 +137,6 @@
 
 ##
 
-*Those who are unwilling to confront the past will be unable to understand the present and unfit to face the future!*
-
 <a title="Burgil" href="https://github.com/burgil">
 <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="100" alt="Profile Picture of Burgil (burgil)">
 </a>
