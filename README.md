@@ -129,6 +129,10 @@
 ![CloudWays](https://img.shields.io/badge/cloudways-2C39BD.svg?style=for-the-badge&logo=cloudways&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 
+# Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Sponsors
 
 <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&icon_color=0366d6&bg_color=0d1117&text_color=ffffff&hide_title=false" alt="GitHub Stats for Burgil (burgil)">
