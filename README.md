@@ -176,8 +176,6 @@
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 - ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
----
-
 # 😎 GitHub Stats
 
 <p align="center">
