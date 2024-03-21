@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://github.com/burgil?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/burgil?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white"/>
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/burgil?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
   </a>
   <a href="https://github.com/burgil/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=burgil&style=flat-square&color=lightgrey"/>
   </a>
   <a href="https://github.com/burgil?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=flat-square&label=Stars&color=55960c&labelColor=488207&query=$.stars&url=https://api.github-star-counter.workers.dev/user/burgil"/>
+    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=flat-square&label=Stars&color=55960c&labelColor=488207&query=$.stars&url=https://api.github-star-counter.workers.dev/user/burgil&v=42"/>
   </a>
   <a href="https://github.com/burgil?tab=repositories&sort=stargazers">
-    <img alt="Total Forks" title="Total Forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=flat-square&color=ff0013&labelColor=ae1206&label=Forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/burgil"/>
+    <img alt="Total Forks" title="Total Forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=flat-square&color=ff0013&labelColor=ae1206&label=Forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/burgil&v=42"/>
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ![visitors count](https://komarev.com/ghpvc/?username=burgil)
 
-<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&theme=transparent&v=42" />
 
 ## 🔥 Expertise & Skills
 
@@ -179,14 +179,18 @@
 # 😎 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgil&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgil&hide_border=true&theme=transparent&v=42" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html&v=42" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&v=42" />
 </p>
+
+# Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=burgil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 👽 My Projects
 
@@ -195,7 +199,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/burgil/sayjs">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=sayjs&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=2" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=sayjs&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
     </a>
   </p>
 </details>
@@ -205,7 +209,7 @@
   <br/>
   <p align="center">
     <a href="https://burgil.github.io/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=2" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
     </a>
   </p>
 </details>
@@ -215,17 +219,13 @@
   <br/>
   <p align="center">
     <a href="https://gist.github.com/burgil/406b1959a0ad802e615801031835c73d">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=406b1959a0ad802e615801031835c73d&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=406b1959a0ad802e615801031835c73d&theme=transparent&v=42" />
     </a>
     <a href="https://gist.github.com/burgil/2525bb294645521c588b9f27120ff896">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=2525bb294645521c588b9f27120ff896&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=2525bb294645521c588b9f27120ff896&theme=transparent&v=42" />
     </a>
   </p>
 </details>
-
-# Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=burgil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Sponsors
 
