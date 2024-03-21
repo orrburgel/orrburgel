@@ -190,7 +190,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" />
 </p>
 
-## 👽 My Projects
+# 👽 My Projects
 
 <details>
   <summary><b>🌐 &nbsp;Forks</b></summary>
@@ -232,6 +232,8 @@
 ## Sponsors
 
 **If my contributions, code snippets, or repositories has helped you, please consider [sponsoring me](https://github.com/sponsors/burgil).**
+
+---
 
 **burgil/burgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
