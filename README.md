@@ -32,10 +32,6 @@
 
 <p style="font-size: 18px;"><b>Reach out, and let's discuss how we can make the <s>impossible</s> <ins>possible</ins>.</b></p>
 
-![Visitors Count](https://komarev.com/ghpvc/?username=burgil)
-
-<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&v=42&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
 ## 🔥 Expertise & Skills
 
 ### Programming Languages:
@@ -176,23 +172,7 @@
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 - ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
-# 😎 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgil&hide_border=true&theme=transparent&v=42" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html&v=42" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent&v=42" />
-</p>
-
-# Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=burgil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-# 👽 My Projects
+# 😋 My Projects
 
 <details>
   <summary><b>🌐 &nbsp;Forks</b></summary>
@@ -227,9 +207,29 @@
   </p>
 </details>
 
-## Sponsors
+# Sponsors
 
 **If my contributions, code snippets, or repositories has helped you, please consider [sponsoring me](https://github.com/sponsors/burgil).**
+
+<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&v=42&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+
+![Visitors Count](https://komarev.com/ghpvc/?username=burgil)
+
+# Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=burgil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 😎 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgil&hide_border=true&theme=transparent&v=42" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html&v=42" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent&v=42" />
+</p>
 
 ---
 
