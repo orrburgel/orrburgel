@@ -27,7 +27,9 @@
 
 <p><b>I come in peace</b> and curiosity. <b>Take me to your leader</b>, and together, we shall conquer the vast <i>universe of coding!</i> <b>Let's unite</b> in crafting groundbreaking solutions for humanity. <b>Let's connect</b> and create something <i>extraordinary</i> together!</p>
 
-<p>With mastery across multiple programming languages, there's hardly a challenge I can't tackle. Join me on my coding journey, where we can collaborate to build remarkable innovations. <b>Reach out, and let's discuss how we can make the <s>impossible</s> <u>possible</u>.<b></p>
+<p>With mastery across multiple programming languages, there's hardly a challenge I can't tackle. Join me on my coding journey, where we can collaborate to build remarkable innovations.</p>
+
+<p style="font-size: 18px;"><b>Reach out, and let's discuss how we can make the <s>impossible</s> <u>possible</u>.<b></p>
 
 ![visitors count](https://komarev.com/ghpvc/?username=burgil)
 
