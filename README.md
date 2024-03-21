@@ -184,7 +184,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=burgil&hide_border=true&theme=transparent" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" />
