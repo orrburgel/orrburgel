@@ -32,9 +32,9 @@
 
 <p style="font-size: 18px;"><b>Reach out, and let's discuss how we can make the <s>impossible</s> <ins>possible</ins>.</b></p>
 
-![visitors count](https://komarev.com/ghpvc/?username=burgil)
+![Visitors Count](https://komarev.com/ghpvc/?username=burgil)
 
-<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&theme=transparent&v=42" />
+<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&v=42&theme=transparent" />
 
 ## 🔥 Expertise & Skills
 
