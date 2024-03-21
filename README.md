@@ -32,6 +32,31 @@
 
 <p style="font-size: 18px;"><b>Reach out, and let's discuss how we can make the <s>impossible</s> <ins>possible</ins>.</b></p>
 
+### System Requirements to Run Burgil:
+* Proficiency in English is required.
+* Mastery in development is necessary.
+* At least 16GB of RAM is required.
+* Laptops are not permitted for use.
+* Wifi usage is prohibited.
+* A good quality microphone is required.
+* Age requirement is 18+.
+* Being a person of good character is essential; individuals with negative intentions are not permitted.
+
+### Operating Systems
+- ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
+  - Windows 10
+  - Windows 11
+  - Windows 7
+  - Windows Vista
+  - Windows XP
+  - Windows 98
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
+  - Ubuntu
+  - Debian
+  - Oracle Linux
+  - Kali Linux
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
+
 ## 🔥 Expertise & Skills
 
 ### Programming Languages:
@@ -148,30 +173,6 @@
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455.svg?style=flat-square&logo=AutoHotkey&logoColor=white)
 
 ---
-
-### System Requirements to Run Burgil:
-* Proficiency in English is required.
-* Mastery in development is necessary.
-* At least 16GB of RAM is required.
-* Laptops are not permitted for use.
-* Wifi usage is prohibited.
-* A good quality microphone is required.
-* Age requirement is 18+.
-* Being a person of good character is essential; individuals with negative intentions are not permitted.
-
-### Operating Systems
-- ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
-  - Windows 10
-  - Windows 11
-  - Windows 7
-  - Windows XP
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  - Ubuntu
-  - Debian
-  - Kali Linux
-- ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-- ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
 # 😋 My Projects
 
