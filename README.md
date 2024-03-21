@@ -30,7 +30,7 @@
 
 <p>With mastery across multiple programming languages, there's hardly a challenge I can't tackle. Join me on my coding journey, where we can collaborate to build remarkable innovations.</p>
 
-<p style="font-size: 18px;"><b>Reach out, and let's discuss how we can make the <s>impossible</s> <u>possible</u>.<b></p>
+<p style="font-size: 18px;"><b>Reach out, and let's discuss how we can make the <s>impossible</s><b> <u>possible</u>.</p>
 
 ![visitors count](https://komarev.com/ghpvc/?username=burgil)
 
