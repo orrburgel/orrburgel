@@ -34,7 +34,7 @@
 
 ![Visitors Count](https://komarev.com/ghpvc/?username=burgil)
 
-<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&v=42&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&v=42&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 ## 🔥 Expertise & Skills
 
@@ -185,7 +185,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgil&hide_border=true&layout=compact&langs_count=22&theme=transparent&hide=html&v=42" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&v=42" />
+    <img src="https://github-readme-stats.vercel.app/api?username=burgil&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent&v=42" />
 </p>
 
 # Trophies
