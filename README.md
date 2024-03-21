@@ -31,9 +31,7 @@
 
 ![visitors count](https://komarev.com/ghpvc/?username=burgil)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&theme=transparent" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=burgil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=28&hide_rank=true&icon_color=238636&theme=transparent" />
 
 ## 🔥 Expertise & Skills
 
