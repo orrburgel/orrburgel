@@ -206,6 +206,9 @@
     <a href="https://gist.github.com/burgil/2525bb294645521c588b9f27120ff896">
       <img src="https://github-readme-stats.vercel.app/api/gist?id=2525bb294645521c588b9f27120ff896&theme=transparent&v=42" />
     </a>
+    <a href="https://gist.github.com/burgil/710596c9685a0ac4db55d6d60581d927">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=710596c9685a0ac4db55d6d60581d927&theme=transparent&v=42" />
+    </a>
   </p>
 </details>
 
