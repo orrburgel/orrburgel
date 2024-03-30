@@ -11,7 +11,7 @@
   <a href="https://github.com/burgil?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/burgil?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
   </a>
-  <a href="https://github.com/burgil/Simple-View-Counter">
+  <a href="https://github.com/burgil">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=burgil&style=flat-square&color=lightgrey"/>
   </a>
   <a href="https://github.com/burgil?tab=repositories&sort=stargazers">
