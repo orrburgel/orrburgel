@@ -1,5 +1,5 @@
 <a title="Burgil" href="https://github.com/burgil" style="text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="75" alt="Profile Picture of Burgil (burgil)" align="left">
+    <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="70" alt="Profile Picture of Burgil (burgil)" align="left">
 </a>
 
 # [🅱🆄🆁🅶🅸🅻](https://github.com/burgil)
