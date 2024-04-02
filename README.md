@@ -55,8 +55,11 @@
   - Debian
   - Oracle Linux
   - Kali Linux
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
-
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+  - Android Studio
+- ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
+  - Xcode
+  
 ## 🔥 Expertise & Skills
 
 ### Programming Languages:
