@@ -39,7 +39,7 @@
 * Laptops are not permitted for use.
 * Wifi usage is prohibited.
 * A good quality microphone is required.
-* Age requirement is 18+.
+* Age requirement is 18+. (Taking Freelancing Jobs)
 * Being a person of good character is essential; individuals with negative intentions are not permitted.
 
 ### Operating Systems
