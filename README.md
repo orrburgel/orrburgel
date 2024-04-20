@@ -180,11 +180,42 @@
 # 😋 My Projects
 
 <details>
+  <summary><b>🌐 &nbsp;Repos</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/burgil/WebApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=WebApp&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/energy-balls">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=energy-balls&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/free-public-apis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=free-public-apis&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/tailwind-html-template">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=tailwind-html-template&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/cloudflare-fullstack">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=cloudflare-fullstack&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/bun-windows-launchers">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=bun-windows-launchers&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/whisper-test">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=whisper-test&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+  </p>
+</details>
+
+<details>
   <summary><b>🌐 &nbsp;Forks</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/burgil/sayjs">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=sayjs&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://github.com/burgil/electron-builder">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=electron-builder&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
     </a>
   </p>
 </details>
@@ -194,6 +225,15 @@
   <br/>
   <p align="center">
     <a href="https://burgil.github.io/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://roboticeva.github.io/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roboticeva&repo=roboticeva.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://malfunctionify.com/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+    <a href="https://www.roboticeva.com/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
     </a>
   </p>
