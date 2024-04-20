@@ -227,21 +227,32 @@
     <a href="https://burgil.github.io/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
     </a>
-    <a href="https://roboticeva.github.io/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roboticeva&repo=roboticeva.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
-    </a>
-    <a href="https://malfunctionify.com/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
-    </a>
-    <a href="https://www.roboticeva.com/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
-    </a>
+    <a href="https://roboticeva.github.io/">https://roboticeva.github.io/</a>
+    <a href="https://malfunctionify.com/">https://malfunctionify.com/</a>
+    <a href="https://www.roboticeva.com/">https://www.roboticeva.com/</a>
   </p>
 </details>
 
 <details>
   <summary><b>🌐 &nbsp;Gists</b></summary>
   <br/>
+  <p align="center">
+    <a href="https://gist.github.com/burgil/6b01261c5e8947c3d5df6aaedad7da40">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=6b01261c5e8947c3d5df6aaedad7da40&theme=transparent&v=42" />
+    </a>
+    <a href="https://gist.github.com/burgil/e5957d9f672e3eec931498baf3ef06fe">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=e5957d9f672e3eec931498baf3ef06fe&theme=transparent&v=42" />
+    </a>
+    <a href="https://gist.github.com/burgil/710596c9685a0ac4db55d6d60581d927">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=710596c9685a0ac4db55d6d60581d927&theme=transparent&v=42" />
+    </a>
+    <a href="https://gist.github.com/burgil/406b1959a0ad802e615801031835c73d">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=406b1959a0ad802e615801031835c73d&theme=transparent&v=42" />
+    </a>
+    <a href="https://gist.github.com/burgil/2525bb294645521c588b9f27120ff896">
+      <img src="https://github-readme-stats.vercel.app/api/gist?id=2525bb294645521c588b9f27120ff896&theme=transparent&v=42" />
+    </a>
+  </p>
   <p align="center">
     <a href="https://gist.github.com/burgil/261bdbd1ab456ee8ac26f5e65d4b7104">
       <img src="https://github-readme-stats.vercel.app/api/gist?id=261bdbd1ab456ee8ac26f5e65d4b7104&theme=transparent&v=42" />
@@ -257,21 +268,6 @@
     </a>
     <a href="https://gist.github.com/burgil/837976e5143b93fb272d0277c1416479">
       <img src="https://github-readme-stats.vercel.app/api/gist?id=837976e5143b93fb272d0277c1416479&theme=transparent&v=42" />
-    </a>
-    <a href="https://gist.github.com/burgil/6b01261c5e8947c3d5df6aaedad7da40">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=6b01261c5e8947c3d5df6aaedad7da40&theme=transparent&v=42" />
-    </a>
-    <a href="https://gist.github.com/burgil/e5957d9f672e3eec931498baf3ef06fe">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=e5957d9f672e3eec931498baf3ef06fe&theme=transparent&v=42" />
-    </a>
-    <a href="https://gist.github.com/burgil/710596c9685a0ac4db55d6d60581d927">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=710596c9685a0ac4db55d6d60581d927&theme=transparent&v=42" />
-    </a>
-    <a href="https://gist.github.com/burgil/406b1959a0ad802e615801031835c73d">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=406b1959a0ad802e615801031835c73d&theme=transparent&v=42" />
-    </a>
-    <a href="https://gist.github.com/burgil/2525bb294645521c588b9f27120ff896">
-      <img src="https://github-readme-stats.vercel.app/api/gist?id=2525bb294645521c588b9f27120ff896&theme=transparent&v=42" />
     </a>
   </p>
 </details>
