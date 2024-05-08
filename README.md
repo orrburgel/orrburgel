@@ -24,7 +24,7 @@
 
 ---
 
-### 👽👋 Greetings, I'm Orr.
+### 👽👋 Greetings, I'm Burgil.
 
 <p><b>I come in peace</b> and curiosity. <b>Take me to your leader</b>, and together, we shall conquer the vast <i>universe of coding!</i> <b>Let's unite</b> in crafting groundbreaking solutions for humanity. <b>Let's connect</b> and create something <i>extraordinary</i> together!</p>
 
