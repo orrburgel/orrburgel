@@ -210,19 +210,6 @@
 </details>
 
 <details>
-  <summary><b>🌐 &nbsp;Websites</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://burgil.github.io/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil.github.io&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
-    </a>
-    <a href="https://roboticeva.github.io/">https://roboticeva.github.io/</a>
-    <a href="https://malfunctionify.com/">https://malfunctionify.com/</a>
-    <a href="https://www.roboticeva.com/">https://www.roboticeva.com/</a>
-  </p>
-</details>
-
-<details>
   <summary><b>🌐 &nbsp;Gists</b></summary>
   <br/>
   <p align="center">
